@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tyler Nguyen!
 - 👀 I’m interested in tech and entrepreneurship.
-- 🌱 I’m currently in my junior year at Michigan State University
-- 💞️ I’m looking to learn more about AI.
+- 🌱 I’m currently in my Senior year at Michigan State University
+- 💞️ I’m looking to learn more about AI and software engineering in general.
 - 📫 How to reach me ... tylernamnguyen2004@gmail.com
 
 <!---
